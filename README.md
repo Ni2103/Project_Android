@@ -164,44 +164,45 @@ S -3: Tạo biểu đồ thống kê chi tiêu hằng ngày
 2: Hệ thống hiển thị thông tin thống kê chi tiêu hằng ngày mà người dùng yêu cầu.
 # Mô hình luồng dữ liệu(DFD)
 #	Mô hình dòng dữ liệu mức 0
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/d8fc6b58-6357-47bc-ab75-7ae961372c37)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/b74f2c92-e9fd-4504-ab63-869b2880b931)
 # 	Mô hình dòng dữ liệu mức 1
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/14e37c4e-d7f8-4569-b712-f792369a6483)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/98a38926-4d88-4175-8625-d3e00accd834)
 
 #	Mô hình dòng dữ liệu mức 2
 - 	Mô hình dòng dữ liệu mức 2 cho ô xử lý 1.0 “Quản lý nguồn thu”
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/9287fae8-4140-4b5f-a5cf-dbac38f7e925)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/a6ad5582-1355-43dc-a242-943d56a725fb)
 - 	Mô hình dòng dữ liệu mức 2 cho ô xử lý 2.0 “Quản lý khoản chi”
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/afd8cf84-b4cf-47bd-ae02-3a5006b60b32)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/936be7cc-9802-4051-a94b-3284065b1f21)
 - 	Mô hình dòng dữ liệu mức 2 cho ô xử lý 3.0 “Quản lý ví tiền”
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/3ac5130b-2c77-4938-af17-2a3f25f44ba4)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/ff41bbd7-be28-4192-a04b-46aa4cdb7618)
 -	Mô hình dòng dữ liệu mức 2 cho ô xử lý 4.0 “Quản lý danh mục thu/chi”
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/762f6e63-ace2-487d-9709-5f1371d98b3c)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/2d2a71c3-300e-4056-ab61-0cb565c0a6e9)
 -	Mô hình dòng dữ liệu mức 2 cho ô xử lý 5.0 “Thống kê”
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/a14b4e7f-83e0-43ea-a4fe-de0da94130fc)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/cae78bee-f649-49d5-9eee-5e1edff22618)
 # Mô hình thực thể kết hợp(ERD)
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/0a76a9ba-2775-4387-a22b-06424f40b18a)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/ee4c6378-25a1-4cad-850b-52c7cb8b1b42)
+<img width="372" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/26683333-7670-4e51-afa0-34a17ed44b71">
 
 # XÂY DỰNG CƠ SỞ DỮ LIỆU
-<img width="429" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/7e442edc-97c8-442f-bca5-8404ca424ff3">
-<img width="425" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/e5bc6b6c-a601-420a-b6d3-e5c91d1d4f5c">
-<img width="446" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/16d73409-015a-483c-a4a6-ce88a53bd35c">
-<img width="436" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/94c58a9d-4c04-4b81-88b3-d0ea988ef23a">
-<img width="427" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/fdecfdbd-2827-4e2a-8ad1-5e9ef4c0ede2">
+<img width="432" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/51328e8f-3701-4eaf-8e21-f8d3d5d45017">
+<img width="424" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/2142dd8e-e94c-461e-84a6-a8a8b463beb6">
+<img width="430" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/614adcaf-5e96-4c95-b583-00bdabb210be">
+<img width="434" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/61713bae-61ff-48f0-b25f-09e5c41857b9">
+<img width="425" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/adc37daf-dc59-40fa-8947-4effbd8f1824">
 
 
 # SƠ ĐỒ TỔ CHỨC GIAO DIỆN
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/5d6804fb-7026-44ca-9242-af2f7ac06bde)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/c44c6678-98b9-4c35-8cba-00dee339a29c)
 # Màn hình chào
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/a7baa030-89e9-4ad2-b94c-2fe7d455911e)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/39cb5e25-3f87-437a-b59b-43ab9df71765)
 -	Đây là màn hình khởi động ứng dụng, bấm vào nút ‘Start’ để bắt đầu sử dụng ứng dụng
 # Màn hình giao diện đăng kí
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/0134f1f7-e346-4b80-883a-65df0a809545)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/67ac90c8-9200-4e87-9c3b-8677145cd412)
 -	Người dùng mở ứng dụng màn hình đăng nhập sẽ mở lên trước. Nếu người dùng chưa có tài khoản thì bấm vào nút Register để tạo một tài khoản mới, màn hình sẽ chuyển sang giao diện đăng kí tài khoản
 -	Sau khi gõ đầy đủ các thông tin, người dùng bấm vào nút Register để đăng kí
 -	Sau khi tạo thành công màn hình sẽ hiển thị thống báo đã tạo thành công và chuyển sang giao diện màn hình đăng nhập
 # Màn hình giao diện đăng nhập
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/62f81635-b2fe-4030-bc16-1b2f077ef897)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/e20de5ea-411d-4b58-9e2b-993c52e79f94)
 -	Gõ tên đăng nhập và mật khẩu tương ứng
 -	Sau khi gõ đầy đủ các thông tin, người dùng bấm vào nút Login
 -	Hệ thống sẽ tiến hành kiểm tra thông tin tài khoản đã được tạo trong cơ sở dữ liệu
@@ -210,20 +211,20 @@ S -3: Tạo biểu đồ thống kê chi tiêu hằng ngày
 
 
 # Màn hình trang chủ 
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/a9be4000-0353-4a91-a240-d08cc97475df)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/18145893-fbe6-439f-a57e-88a9388b60be)
 -	Tại trang chủ, có thể xem tình hình chi/ tiêu biến động theo ngày
 -	Có thể xem danh sách các nguồn tài khoản thu nhập 
 -	Các khoản chi đã thêm
 -	Ngoài ra, nếu nhấn vào ‘dấu cộng’ ở phía trên màn hình có thể tới giao diện thêm nguồn thu hay là các khoản chi tiêu mới
 
 # Màn hình thống kê
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/dbc52463-e839-4bfb-aa08-50a68a112bf1)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/4cf61852-505c-4bad-8922-552f9f0524da)
 -	Tại màn hình này, có thể xem được thống kê các khoản chi tiêu trong ngày hiện tại (nếu có)
 -	Xem thống kê thu nhập trong ngày (nếu có) và các khoản chi tiêu 
 -	Ngoài ra, nếu nhấn vào ‘dấu cộng’ ở phía trên màn hình có thể tới giao diện thêm nguồn thu hay là các khoản chi tiêu mới.
 
 #  Màn hình thêm nguồn thu/ khoản chi
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/87e40f0f-fa23-4b9a-88ce-7316fe256d13)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/497a7335-cab3-4543-8401-523389780c82)
 -	Thêm: Hiển thị màn hình thêm mới nguồn thu / khoản chi, cho phép người dùng chọn các danh mục tương ứng cần cần thêm
 -	Các danh mục tronng nguồn thu nhập hay khoản chi tiêu sẽ được quản lý trong danh sách danh mục
 -	Sau khi thêm nguồn thu nhập hay khoản chi tiêu mới thì giao diện sẽ hiển thị tương ứng với danh mục đã chọn cho phép người dùng nhập vào số tiền tương ứng, ghi chú, thời gian.
@@ -231,7 +232,7 @@ S -3: Tạo biểu đồ thống kê chi tiêu hằng ngày
 + Trường hợp nếu người dùng không nhập số tiền thì sẽ có thông báo ‘ Bạn không được để trống số tiền’ , khi đó người dùng chưa thể lưu được  và phải cung cấp số tiền tương ứng thì mới hoàn tất thủ tục lưu 
 
 # Màn hình cài đặt
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/95efc1f1-82a0-47d9-ad1a-596e55642a6b)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/e7537e6f-177c-436c-831c-e5c1339ab2fc)
 -	Tại giao diện cài đặt, người dùng có thể:
 + Xem thông tin ví tiền, thêm ví tiền mới, cập nhật hoặc xóa ví tiền hiện tại
 + Cập nhật loại tiền tệ mới
@@ -240,32 +241,32 @@ S -3: Tạo biểu đồ thống kê chi tiêu hằng ngày
 + Đăng xuất khỏi tài khoản hiện tại
 
 # Màn hình thêm ví tiền
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/11e4577b-4b41-45f6-8fac-ebe951771cef)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/424ae28e-4b10-4bae-a29d-f583b8e06e1d)
 -	Khi người dùng nhấn vào ‘dấu cộng’ ở góc phải trên cùng của ứng dụng thì sẽ hiện lên giao diện để thêm ví tiền mới
 -	Người dùng nhập tên ví tiền mới, số tiền cho ví tiền đó
 + Trường hợp nếu người dùng không nhập tên ví tiền hay số tiền mà nhấn vào nút “Hoàn thành’ sẽ có một cảnh báo yêu cầu người dùng nhập đầy đủ thông tin 
 -	Sau khi nhập đầu đủ, người dùng bấm nút Hoàn tất, màn hình hiện thống báo ‘ví tiền mới được thêm’
 
  # Màn hình cập nhật/ xóa ví tiền
- ![image](https://github.com/Ni2103/Project_Android/assets/89075130/783af689-b11b-457b-8d8e-77f7c5a38467)
+ ![image](https://github.com/Ni2103/Project_Android/assets/89075130/67f5b588-779c-4cb7-a0a3-87de64a63167)
  -	Nếu người dùng muốn xóa hay chỉnh sửa ví tiền nào thì có thể nhấn vào ví tiền đó. Một sự lựa chọn sẽ hiện ra cho phép xóa hoặc cập nhật ví tiền
 -	Nếu người dùng bấm vào nút xóa thì ví tiền đó sẽ bị xóa khỏi danh mục, nếu nhấn vào nút chỉnh sửa thì màn hình sẽ hiện lên giao diện chỉnh sửa thông tin ví tiền cho người dùng
 -	Sau cùng người dùng bấm nút Hoàn thành để lưu lại thông tin đã cập nhật
 # Màn hình chỉnh sửa loại tiền tệ
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/dcc32c9b-bbc9-4773-8ad3-ef0733d9280c)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/8390946e-92b0-4312-8b55-827104acf976)
 -	Người dùng có thể chỉnh sửa loại tiền tệ tương ứng kho nhấn vào mục loại tiền tệ, sau khi chỉnh sửa xong bấm ‘Chỉnh sửa’ để lưu thông tin vừa thay đổi
 
 # Màn hình thêm danh mục mới 
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/224c1faf-237e-43a8-94bc-3f9a1455f8f2)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/9492904d-abf8-4f54-8c08-e1f0cdc45287)
 -	Tại chức năng Danh mục trong phần Cài đặt, người dùng có thể quản lý tất cả danh sách danh mục nguồn thu và khoản chi của người dùng.  Khi nhấn vào ‘dấu cộng ‘ở góc trên bên phải màn hình, người dùng có thể thêm mới một danh mục tương ứng với nguồn thu hoặc khoản chi.
 # Màn hình cập nhật/ xóa danh mục
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/24cf27de-922c-42ce-b6dd-d4d5ab01fd4c)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/55d0eb4c-53c0-4f32-9d49-71a5b6e205d8)
 -	Nếu người dùng muốn xóa hay chỉnh sửa danh mục thì có thể nhấn vào danh mục đó. Một sự lựa chọn sẽ hiện ra cho phép xóa hoặc cập nhật danh mục đó.
 -	Nếu người dùng bấm vào nút xóa thì danh mục đó sẽ bị xóa khỏi danh sách, nếu nhấn vào nút chỉnh sửa thì màn hình sẽ hiện lên giao diện chỉnh sửa thông tin danh mục cho người dùng.
 -	Sau cùng người dùng bấm nút Hoàn thành để lưu lại thông tin đã cập nhật
 	![image](https://github.com/Ni2103/Project_Android/assets/89075130/5662958e-620b-4755-90a9-725997e882d1)
 
 # Màn hình thông tin liên hệ
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/fb7fcb13-72a1-4e8f-b6a4-ecab80ab640b)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/c43e4ffb-8961-4094-9cf8-e058b45f0d45)
 -	Màn hình này sẽ hiện thi thông tin nhóm thực hiện đề tài 
-Hiện tại chưa có tính này gì
+-	Hiện tại tính này chưa được hoàn thiện
