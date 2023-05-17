@@ -9,7 +9,9 @@
 	Quản lý chi
 	Quản lý ví tiền
 	Thống kê, báo cáo 
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/5e34d861-8a22-4219-b868-35ebfe0643cb)
+# Sơ đồ phân cấp chức năng
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/a7e032f3-96d8-485f-bc7b-3aca09edbf0c)
+
 # Đặc tả chức năng của ứng dụng
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/82d5f35b-c90f-42c1-a276-dee750a34a55)
 Sơ đồ Use case tổng quát quản lý chi tiêu cá nhân
