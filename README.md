@@ -120,5 +120,28 @@ S -4: Nếu chức năng là Xem thông tin hệ thống thực hiện luồng s
 •	S -4: Xem thông tin ví tiền:
 1: Người dùng chọn vào thông tin ví tiền cần xem và chọn “Xem thông tin ví tiền”
 2: Hệ thống thực hiện hiển thị thông tin ví tiền
+-	Đặc tả use case quản lý danh mục thu/ chi:
++ Luồng sự kiện chẩn:
+	1: Hệ thống thực hiện đặc tả Đăng nhập
+	2: Người dùng chọn danh mục quản lý danh mục thu/chi
+S -1: Nếu chức năng là Thêm hệ thống thực hiện luồng sự kiện con “Thêm danh mục thu chi”
+S -2: Nếu chức năng là Sửa hệ thống thực hiện luồng sự kiện con “Sửa danh mục thu chi”
+S -3: Nếu chức năng là Xóa hệ thống thực hiện luồng sự kiện con “Xóa danh mục thu chi”
+	Luồng sự kiện con:
+•	S -1: Thêm danh mục thu/ chi:
+1: Người dùng chọn vào “Thêm danh mục thu/chi”
+2: Người dùng nhập vào thông tin danh mục thu/chi cần thêm
+3: Hệ thống lưu lại thông tin danh mục thu/chi
+4: Hệ thống hiển thị thông tin danh mục thu/chi
+•	S -2: Sửa danh mục thu/chi:
+1: Người dùng chọn vào thông tin danh mục thu chi cần sửa và chọn “Sửa danh mục thu chi”
+2: Người dùng chỉnh sửa thông tin danh mục thu/chi
+3: Hệ thống lưu lại thông tin danh mục thu/chi
+4: Hệ thống hiển thị thông tin
+•	S -3: Xóa danh mục thu/chi:
+1: Người dùng chọn vào thông tin danh mục thu/chi cần xóa và chọn “Xóa danh mục thu/chi”
+2: Hệ thống thực hiện xóa danh mục thu/chi
+3: Hệ thống lưu lại thông tin danh mục thu/chi
+4: Hệ thống hiển thị thông tin
 
 
