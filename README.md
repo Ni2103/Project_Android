@@ -182,21 +182,61 @@ S -3: Tạo biểu đồ thống kê chi tiêu hằng ngày
 
 # Màn hình trang chủ 
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/a9be4000-0353-4a91-a240-d08cc97475df)
+-	Tại trang chủ, có thể xem tình hình chi/ tiêu biến động theo ngày
+-	Có thể xem danh sách các nguồn tài khoản thu nhập 
+-	Các khoản chi đã thêm
+-	Ngoài ra, nếu nhấn vào ‘dấu cộng’ ở phía trên màn hình có thể tới giao diện thêm nguồn thu hay là các khoản chi tiêu mới
+
 # Màn hình thống kê
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/dbc52463-e839-4bfb-aa08-50a68a112bf1)
+-	Tại màn hình này, có thể xem được thống kê các khoản chi tiêu trong ngày hiện tại (nếu có)
+-	Xem thống kê thu nhập trong ngày (nếu có) và các khoản chi tiêu 
+-	Ngoài ra, nếu nhấn vào ‘dấu cộng’ ở phía trên màn hình có thể tới giao diện thêm nguồn thu hay là các khoản chi tiêu mới.
 
 #  Màn hình thêm nguồn thu/ khoản chi
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/87e40f0f-fa23-4b9a-88ce-7316fe256d13)
+-	Thêm: Hiển thị màn hình thêm mới nguồn thu / khoản chi, cho phép người dùng chọn các danh mục tương ứng cần cần thêm
+-	Các danh mục tronng nguồn thu nhập hay khoản chi tiêu sẽ được quản lý trong danh sách danh mục
+-	Sau khi thêm nguồn thu nhập hay khoản chi tiêu mới thì giao diện sẽ hiển thị tương ứng với danh mục đã chọn cho phép người dùng nhập vào số tiền tương ứng, ghi chú, thời gian.
+-	Bấm lưu để thêm 
++ Trường hợp nếu người dùng không nhập số tiền thì sẽ có thông báo ‘ Bạn không được để trống số tiền’ , khi đó người dùng chưa thể lưu được  và phải cung cấp số tiền tương ứng thì mới hoàn tất thủ tục lưu 
+
 # Màn hình cài đặt
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/95efc1f1-82a0-47d9-ad1a-596e55642a6b)
+-	Tại giao diện cài đặt, người dùng có thể:
++ Xem thông tin ví tiền, thêm ví tiền mới, cập nhật hoặc xóa ví tiền hiện tại
++ Cập nhật loại tiền tệ mới
++ Xem các danh mục tương ứng với nguồn thu hoặc khoản chi. Ngoài ra có thể thêm mới một danh mục tương ứng hoặc cập nhật, xóa một danh mục đã có.
++ Xem thông tin liên hệ, gửi phản hồi cho ứng dụng
++ Đăng xuất khỏi tài khoản hiện tại
+
 # Màn hình thêm ví tiền
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/11e4577b-4b41-45f6-8fac-ebe951771cef)
+-	Khi người dùng nhấn vào ‘dấu cộng’ ở góc phải trên cùng của ứng dụng thì sẽ hiện lên giao diện để thêm ví tiền mới
+-	Người dùng nhập tên ví tiền mới, số tiền cho ví tiền đó
++ Trường hợp nếu người dùng không nhập tên ví tiền hay số tiền mà nhấn vào nút “Hoàn thành’ sẽ có một cảnh báo yêu cầu người dùng nhập đầy đủ thông tin 
+-	Sau khi nhập đầu đủ, người dùng bấm nút Hoàn tất, màn hình hiện thống báo ‘ví tiền mới được thêm’
+
  # Màn hình cập nhật/ xóa ví tiền
  ![image](https://github.com/Ni2103/Project_Android/assets/89075130/783af689-b11b-457b-8d8e-77f7c5a38467)
+ -	Nếu người dùng muốn xóa hay chỉnh sửa ví tiền nào thì có thể nhấn vào ví tiền đó. Một sự lựa chọn sẽ hiện ra cho phép xóa hoặc cập nhật ví tiền
+-	Nếu người dùng bấm vào nút xóa thì ví tiền đó sẽ bị xóa khỏi danh mục, nếu nhấn vào nút chỉnh sửa thì màn hình sẽ hiện lên giao diện chỉnh sửa thông tin ví tiền cho người dùng
+-	Sau cùng người dùng bấm nút Hoàn thành để lưu lại thông tin đã cập nhật
+# Màn hình chỉnh sửa loại tiền tệ
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/dcc32c9b-bbc9-4773-8ad3-ef0733d9280c)
+-	Người dùng có thể chỉnh sửa loại tiền tệ tương ứng kho nhấn vào mục loại tiền tệ, sau khi chỉnh sửa xong bấm ‘Chỉnh sửa’ để lưu thông tin vừa thay đổi
+
 # Màn hình thêm danh mục mới 
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/224c1faf-237e-43a8-94bc-3f9a1455f8f2)
+-	Tại chức năng Danh mục trong phần Cài đặt, người dùng có thể quản lý tất cả danh sách danh mục nguồn thu và khoản chi của người dùng.  Khi nhấn vào ‘dấu cộng ‘ở góc trên bên phải màn hình, người dùng có thể thêm mới một danh mục tương ứng với nguồn thu hoặc khoản chi.
 # Màn hình cập nhật/ xóa danh mục
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/24cf27de-922c-42ce-b6dd-d4d5ab01fd4c)
+-	Nếu người dùng muốn xóa hay chỉnh sửa danh mục thì có thể nhấn vào danh mục đó. Một sự lựa chọn sẽ hiện ra cho phép xóa hoặc cập nhật danh mục đó.
+-	Nếu người dùng bấm vào nút xóa thì danh mục đó sẽ bị xóa khỏi danh sách, nếu nhấn vào nút chỉnh sửa thì màn hình sẽ hiện lên giao diện chỉnh sửa thông tin danh mục cho người dùng.
+-	Sau cùng người dùng bấm nút Hoàn thành để lưu lại thông tin đã cập nhật
+	![image](https://github.com/Ni2103/Project_Android/assets/89075130/5662958e-620b-4755-90a9-725997e882d1)
+
 # Màn hình thông tin liên hệ
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/fb7fcb13-72a1-4e8f-b6a4-ecab80ab640b)
-
+-	Màn hình này sẽ hiện thi thông tin nhóm thực hiện đề tài 
+Hiện tại chưa có tính này gì
