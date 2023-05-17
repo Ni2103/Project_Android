@@ -161,4 +161,6 @@ S -3: Tạo biểu đồ thống kê chi tiêu hằng ngày
 1: Người dùng chọn tạo biểu đồ thống kê chi tiêu hằng ngày
 2: Hệ thống hiển thị thông tin thống kê chi tiêu hằng ngày mà người dùng yêu cầu.
 
+# SƠ ĐỒ TỔ CHỨC GIAO DIỆN
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/5d6804fb-7026-44ca-9242-af2f7ac06bde)
 
