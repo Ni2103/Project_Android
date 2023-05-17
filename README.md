@@ -13,7 +13,7 @@
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/a7e032f3-96d8-485f-bc7b-3aca09edbf0c)
 
 # Đặc tả chức năng của ứng dụng
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/82d5f35b-c90f-42c1-a276-dee750a34a55)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/840d0597-888a-42e7-9755-c71ee093412e)
 # Sơ đồ Use case tổng quát quản lý chi tiêu cá nhân
 -	Đặc tả use case tạo tài khoản mới:
 +	Luồng sự kiện chuẩn:
