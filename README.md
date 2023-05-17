@@ -14,7 +14,7 @@
 
 # Đặc tả chức năng của ứng dụng
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/82d5f35b-c90f-42c1-a276-dee750a34a55)
-Sơ đồ Use case tổng quát quản lý chi tiêu cá nhân
+# Sơ đồ Use case tổng quát quản lý chi tiêu cá nhân
 -	Đặc tả use case tạo tài khoản mới:
 +	Luồng sự kiện chuẩn:
 	1: Nhập tài khoản và mật khẩu
