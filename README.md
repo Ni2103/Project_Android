@@ -177,6 +177,9 @@ S -3: Tạo biểu đồ thống kê chi tiêu hằng ngày
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/762f6e63-ace2-487d-9709-5f1371d98b3c)
 -	Mô hình dòng dữ liệu mức 2 cho ô xử lý 5.0 “Thống kê”
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/a14b4e7f-83e0-43ea-a4fe-de0da94130fc)
+# Mô hình thực thể kết hợp(ERD)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/0a76a9ba-2775-4387-a22b-06424f40b18a)
+
 # XÂY DỰNG CƠ SỞ DỮ LIỆU
 <img width="429" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/7e442edc-97c8-442f-bca5-8404ca424ff3">
 <img width="425" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/e5bc6b6c-a601-420a-b6d3-e5c91d1d4f5c">
