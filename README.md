@@ -69,4 +69,28 @@ S -3: Nếu chức năng là Xóa hệ thống thực hiện luồng sự kiện
 2: Hệ thống thực hiện xóa nguồn thu
 3: Hệ thống lưu lại thông tin nguồn thu
 4: Hệ thống hiển thị thông tin
+-	Đặc tả use case quản lý khoản chi:
++ Luồng sự kiện chẩn:
+	1: Hệ thống thực hiện đặc tả Đăng nhập
+	2: Người dùng chọn danh mục khoản chi
+S -1: Nếu chức năng là Thêm hệ thống thực hiện luồng sự kiện con “Thêm khoản chi”
+S -2: Nếu chức năng là Sửa hệ thống thực hiện luồng sự kiện con “Sửa khoản chi”
+S -3: Nếu chức năng là Xóa hệ thống thực hiện luồng sự kiện con “Xóa khoản chi”
+	Luồng sự kiện con:
+•	S -1: Thêm khoản chi:
+1: Người dùng chọn vào “Thêm khoản chi”
+2: Người dùng nhập vào thông tin khoản chi cần thêm
+3: Hệ thống lưu lại thông tin khoản chi
+4: Hệ thống hiển thị thông tin khoản chi
+•	S -2: Sửa khoản chi:
+1: Người dùng chọn vào thông tin nguồn thu cần sửa và chọn “Sửa khoản chi”
+2: Người dùng chỉnh sửa thông tin khoản chi
+3: Hệ thống lưu lại thông tin khoản chi
+4: Hệ thống hiển thị thông tin
+•	S -3: Xóa khoản chi:
+1: Người dùng chọn vào thông tin khoản chi cần xóa và chọn “Xóa khoản chi”
+2: Hệ thống thực hiện xóa khoản chi
+3: Hệ thống lưu lại thông tin khoản chi
+4: Hệ thống hiển thị thông tin
+
 
