@@ -11,5 +11,4 @@
 	Thống kê, báo cáo 
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/5e34d861-8a22-4219-b868-35ebfe0643cb)
 # Đặc tả chức năng của ứng dụng
-Sơ đồ Use case tổng quát quản lý chi tiêu cá nhân
-![image](https://github.com/Ni2103/Project_Android/assets/89075130/82d5f35b-c90f-42c1-a276-dee750a34a55)
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/82d5f35b-c90f-42c1-a276-dee750a34a55)Sơ đồ Use case tổng quát quản lý chi tiêu cá nhân
