@@ -10,3 +10,4 @@
 	Quản lý ví tiền
 	Thống kê, báo cáo 
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/5e34d861-8a22-4219-b868-35ebfe0643cb)
+# Đặc tả chức năng của ứng dụng
