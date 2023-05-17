@@ -160,6 +160,63 @@ S -2: Tạo thống kê nguồn thu nhập trong ngày
 S -3: Tạo biểu đồ thống kê chi tiêu hằng ngày
 1: Người dùng chọn tạo biểu đồ thống kê chi tiêu hằng ngày
 2: Hệ thống hiển thị thông tin thống kê chi tiêu hằng ngày mà người dùng yêu cầu.
+# Mô hình luồng dữ liệu(DFD)
+#	Mô hình dòng dữ liệu mức 0
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/d8fc6b58-6357-47bc-ab75-7ae961372c37)
+# 	Mô hình dòng dữ liệu mức 1
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/14e37c4e-d7f8-4569-b712-f792369a6483)
+
+#	Mô hình dòng dữ liệu mức 2
+- 	Mô hình dòng dữ liệu mức 2 cho ô xử lý 1.0 “Quản lý nguồn thu”
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/9287fae8-4140-4b5f-a5cf-dbac38f7e925)
+- 	Mô hình dòng dữ liệu mức 2 cho ô xử lý 2.0 “Quản lý khoản chi”
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/afd8cf84-b4cf-47bd-ae02-3a5006b60b32)
+- 	Mô hình dòng dữ liệu mức 2 cho ô xử lý 3.0 “Quản lý ví tiền”
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/3ac5130b-2c77-4938-af17-2a3f25f44ba4)
+-	Mô hình dòng dữ liệu mức 2 cho ô xử lý 4.0 “Quản lý danh mục thu/chi”
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/762f6e63-ace2-487d-9709-5f1371d98b3c)
+-	Mô hình dòng dữ liệu mức 2 cho ô xử lý 5.0 “Thống kê”
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/a14b4e7f-83e0-43ea-a4fe-de0da94130fc)
+# XÂY DỰNG CƠ SỞ DỮ LIỆU
+Danh sách các thực thể
+	User (Tài khoản)
+	Danh sách các thuộc tính
+STT	Tên thuộc tính	Mô tả	Kiểu dữ liệu
+1	ID	Số định danh	int (Tự động tăng)
+2	Username	Tên người dùng	Text
+3	Password	Email	Text
+Bảng 3. 8 Danh sách các thuộc tính User
+	Danh mục
+	Danh sách các thuộc tính
+STT	Tên thuộc tính	Mô tả	Kiểu dữ liệu
+1	ID	Số định danh	int (Tự động tăng)
+2	Category	Tên danh mục	Text
+3	Image	Hình ảnh	Text
+Bảng 3. 9 Danh sách các thuộc tính Category
+	Ví tiền
+	Danh sách các thuộc tính
+STT	Tên thuộc tính	Mô tả	Kiểu dữ liệu
+1	ID	Số định danh	int (Tự động tăng)
+2	Name	Tên ví tiền	Text
+3	Image	Hình ảnh	Text
+4	Money	Số tiền	Float
+Bảng 3. 10 Danh sách các thuộc tính Ví tiền
+	Loại tiền tệ
+	Danh sách các thuộc tính
+STT	Tên thuộc tính	Mô tả	Kiểu dữ liệu
+1	ID	Số định danh	int (Tự động tăng)
+2	Name	Tên loại tiền tệ	Text
+Bảng 3. 11 Danh sách các thuộc tính Loại tiền tệ
+	Chi tiêu
+	Danh sách các thuộc tính
+STT	Tên thuộc tính	Mô tả	Kiểu dữ liệu
+1	Category	Tên danh mục	int (Tự động tăng)
+2	Wallet	Tên loại tiền tệ	Text
+3	Money	Số tiền	Float
+4	Date	Ngày	Date
+5	Note	Ghi chú	Text
+6	Type	Loại ví tiền	Text
+Bảng 3. 12 Danh sách các thuộc tính Chi tiêu
 
 # SƠ ĐỒ TỔ CHỨC GIAO DIỆN
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/5d6804fb-7026-44ca-9242-af2f7ac06bde)
