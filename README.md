@@ -143,5 +143,22 @@ S -3: Nếu chức năng là Xóa hệ thống thực hiện luồng sự kiện
 2: Hệ thống thực hiện xóa danh mục thu/chi
 3: Hệ thống lưu lại thông tin danh mục thu/chi
 4: Hệ thống hiển thị thông tin
+-	Đặc tả use case thống kê, báo cáo thu/chi
++ Luồng sự kiện chẩn:
+	1: Hệ thống thực hiện đặc tả Đăng nhập
+	2: Người dùng chọn danh mục thống kê, báo cáo thu/chi
+S -1: Nếu chức năng là tạo biểu đồ thống kê chi tiêu trong ngày thì hệ thống thực hiện luồng sự kiện con “Tạo biểu đồ thống kê chi tiêu trong ngày”
+S -2: Nếu chức năng là tạo biểu đồ thống kê nguồn thu nhập trong ngày thì hệ thống thực hiện luồng sự kiện con “Tạo thống kê nguồn thu nhập trong ngày”
+S -3: Nếu chức năng là tạo biểu đồ thống kê chi tiêu hằng ngày thì hệ thống thực hiện luồng sự kiện con “Tạo biểu đồ thống kê chi tiêu hằng ngày”
+	Luồng sự kiện con:
+S -1: Tạo biểu đồ thống kê chi tiêu trong ngày
+1: Người dùng chọn ngày cần thống kê
+2: Hệ thống hiển thị thông tin thống kê chi tiêu trong ngày mà người dùng yêu cầu.
+S -2: Tạo thống kê nguồn thu nhập trong ngày
+1: Người dùng chọn ngày và nguồn thu nhập cần thống kê
+2: Hệ thống hiển thị thông tin thống kê nguồn thu nhập trong ngày mà người dùng yêu cầu.
+S -3: Tạo biểu đồ thống kê chi tiêu hằng ngày
+1: Người dùng chọn tạo biểu đồ thống kê chi tiêu hằng ngày
+2: Hệ thống hiển thị thông tin thống kê chi tiêu hằng ngày mà người dùng yêu cầu.
 
 
