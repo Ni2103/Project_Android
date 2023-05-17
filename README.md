@@ -46,4 +46,27 @@ S -3: Nếu chức năng là “Đăng xuất” hệ thống thực hiện lu�
 •	S -3: Đăng xuất:
 1: Người dùng chọn vào “Đăng xuất”
 2: Hệ thống đăng xuất khỏi tài khoản người dùng
+-	Đặc tả use case quản lý nguồn thu:
++ Luồng sự kiện chẩn:
+	1: Hệ thống thực hiện đặc tả Đăng nhập
+	2: Người dùng chọn danh mục nguồn thu
+S -1: Nếu chức năng là Thêm hệ thống thực hiện luồng sự kiện con “Thêm nguồn thu”
+S -2: Nếu chức năng là Sửa hệ thống thực hiện luồng sự kiện con “Sửa nguồn thu”
+S -3: Nếu chức năng là Xóa hệ thống thực hiện luồng sự kiện con “Xóa nguồn thu”
+	Luồng sự kiện con:
+•	S -1: Thêm nguồn thu:
+1: Người dùng chọn vào “Thêm nguồn thu”
+2: Người dùng nhập vào thông tin nguồn thu cần thêm
+3: Hệ thống lưu lại thông tin nguồn thu
+4: Hệ thống hiển thị thông tin nguồn thu
+•	S -2: Sửa nguồn thu:
+1: Người dùng chọn vào thông tin nguồn thu cần sửa và chọn “Sửa nguồn thu”
+2: Người dùng chỉnh sửa thông tin nguồn thu
+3: Hệ thống lưu lại thông tin nguồn thu
+4: Hệ thống hiển thị thông tin
+•	S -3: Xóa nguồn thu:
+1: Người dùng chọn vào thông tin nguồn thu cần xóa và chọn “Xóa nguồn thu”
+2: Hệ thống thực hiện xóa nguồn thu
+3: Hệ thống lưu lại thông tin nguồn thu
+4: Hệ thống hiển thị thông tin
 
