@@ -163,4 +163,34 @@ S -3: Tạo biểu đồ thống kê chi tiêu hằng ngày
 
 # SƠ ĐỒ TỔ CHỨC GIAO DIỆN
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/5d6804fb-7026-44ca-9242-af2f7ac06bde)
+# Màn hình chào
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/a7baa030-89e9-4ad2-b94c-2fe7d455911e)
+-	Đây là màn hình khởi động ứng dụng, bấm vào nút ‘Start’ để bắt đầu sử dụng ứng dụng
+# Màn hình giao diện đăng kí
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/0134f1f7-e346-4b80-883a-65df0a809545)
+-	Người dùng mở ứng dụng màn hình đăng nhập sẽ mở lên trước. Nếu người dùng chưa có tài khoản thì bấm vào nút Register để tạo một tài khoản mới, màn hình sẽ chuyển sang giao diện đăng kí tài khoản
+-	Sau khi gõ đầy đủ các thông tin, người dùng bấm vào nút Register để đăng kí
+
+# Màn hình giao diện đăng nhập
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/62f81635-b2fe-4030-bc16-1b2f077ef897)
+
+# Màn hình trang chủ 
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/a9be4000-0353-4a91-a240-d08cc97475df)
+# Màn hình thống kê
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/dbc52463-e839-4bfb-aa08-50a68a112bf1)
+
+#  Màn hình thêm nguồn thu/ khoản chi
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/87e40f0f-fa23-4b9a-88ce-7316fe256d13)
+# Màn hình cài đặt
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/95efc1f1-82a0-47d9-ad1a-596e55642a6b)
+# Màn hình thêm ví tiền
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/11e4577b-4b41-45f6-8fac-ebe951771cef)
+ # Màn hình cập nhật/ xóa ví tiền
+ ![image](https://github.com/Ni2103/Project_Android/assets/89075130/783af689-b11b-457b-8d8e-77f7c5a38467)
+# Màn hình thêm danh mục mới 
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/224c1faf-237e-43a8-94bc-3f9a1455f8f2)
+# Màn hình cập nhật/ xóa danh mục
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/24cf27de-922c-42ce-b6dd-d4d5ab01fd4c)
+# Màn hình thông tin liên hệ
+![image](https://github.com/Ni2103/Project_Android/assets/89075130/fb7fcb13-72a1-4e8f-b6a4-ecab80ab640b)
 
