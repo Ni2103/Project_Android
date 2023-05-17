@@ -92,5 +92,33 @@ S -3: Nếu chức năng là Xóa hệ thống thực hiện luồng sự kiện
 2: Hệ thống thực hiện xóa khoản chi
 3: Hệ thống lưu lại thông tin khoản chi
 4: Hệ thống hiển thị thông tin
+-	Đặc tả use case quản lý ví tiền:
++ Luồng sự kiện chẩn:
+	1: Hệ thống thực hiện đặc tả Đăng nhập
+	2: Người dùng chọn danh mục quản lý ví tiền
+S -1: Nếu chức năng là Thêm hệ thống thực hiện luồng sự kiện con “Thêm ví tiền”
+S -2: Nếu chức năng là Sửa hệ thống thực hiện luồng sự kiện con “Sửa ví tiền”
+S -3: Nếu chức năng là Xóa hệ thống thực hiện luồng sự kiện con “Xóa ví tiền”
+S -4: Nếu chức năng là Xem thông tin hệ thống thực hiện luồng sự kiện con “Xem thông tin ví tiền”
+
+	Luồng sự kiện con:
+•	S -1: Thêm ví tiền:
+1: Người dùng chọn vào “Thêm ví tiền”
+2: Người dùng nhập vào thông tin ví tiền cần thêm
+3: Hệ thống lưu lại thông tin ví tiền
+4: Hệ thống hiển thị thông tin ví tiền
+•	S -2: Sửa ví tiền:
+1: Người dùng chọn vào thông tin nguồn thu cần sửa và chọn “Sửa ví tiền”
+2: Người dùng chỉnh sửa thông tin ví tiền
+3: Hệ thống lưu lại thông tin ví tiền
+4: Hệ thống hiển thị thông tin
+•	S -3: Xóa ví tiền:
+1: Người dùng chọn vào thông tin ví tiền cần xóa và chọn “Xóa ví tiền”
+2: Hệ thống thực hiện xóa ví tiền
+3: Hệ thống lưu lại thông tin ví tiền
+4: Hệ thống hiển thị thông tin
+•	S -4: Xem thông tin ví tiền:
+1: Người dùng chọn vào thông tin ví tiền cần xem và chọn “Xem thông tin ví tiền”
+2: Hệ thống thực hiện hiển thị thông tin ví tiền
 
 
