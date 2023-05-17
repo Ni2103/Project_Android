@@ -21,14 +21,14 @@
 	2: Hệ thống kiểm tra
 	3: Đăng nhập thành công
 ###	Ngoại lệ:
-•	Tạo tài khoản không hợp lệ khi trong tài khoản đã tồn tại tài khoản đó. Nếu đã tồn tại yêu cầu tạo tài khoản mới.
+	Tạo tài khoản không hợp lệ khi trong tài khoản đã tồn tại tài khoản đó. Nếu đã tồn tại yêu cầu tạo tài khoản mới.
 ##	Đặc tả use case đăng nhập:
--	Luồng sự kiện chuẩn:
-•	1: Nhập tài khoản và mật khẩu
-•	2: Hệ thống kiểm tra
-•	3: Đăng nhập thành công
-	Ngoại lệ:
-•	Đăng nhập không hợp lệ khi nhập sai tài khoản, mật khẩu hoặc tài khoản đó không tồn tại, hệ thống yêu cầu đăng nhập lại. Nếu chưa có tài khoản cần đăng kí tài khoản mới.
+###	Luồng sự kiện chuẩn:
+	1: Nhập tài khoản và mật khẩu
+	2: Hệ thống kiểm tra
+	3: Đăng nhập thành công
+###	Ngoại lệ:
+	Đăng nhập không hợp lệ khi nhập sai tài khoản, mật khẩu hoặc tài khoản đó không tồn tại, hệ thống yêu cầu đăng nhập lại. Nếu chưa có tài khoản cần đăng kí tài khoản mới.
 -	Đặc tả use case hỗ trợ người dùng:
 	Luồng sự kiện chuẩn:
 •	1: Hệ thống thực hiện đăng nhập
