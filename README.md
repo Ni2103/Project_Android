@@ -27,3 +27,23 @@ Sơ đồ Use case tổng quát quản lý chi tiêu cá nhân
 •	3: Đăng nhập thành công
 	Ngoại lệ:
 •	Đăng nhập không hợp lệ khi nhập sai tài khoản, mật khẩu hoặc tài khoản đó không tồn tại, hệ thống yêu cầu đăng nhập lại. Nếu chưa có tài khoản cần đăng kí tài khoản mới.
+-	Đặc tả use case hỗ trợ người dùng:
+	Luồng sự kiện chuẩn:
+•	1: Hệ thống thực hiện đăng nhập
+•	2: Người dùng chọn danh mục chức năng hỗ trợ người dùng
+S -1: Nếu chức năng là “Đăng kí tài khoản” hệ thống thực hiện luồng sự kiện con “Đăng kí tài khoản mới cho người dùng”
+S -2: Nếu chức năng là “Đăng nhập” hệ thống thực hiện luồng sự kiện con “Đăng nhập cho người dùng”
+S -3: Nếu chức năng là “Đăng xuất” hệ thống thực hiện luồng sự kiện con “Đăng xuất”
+	Luồng sự kiện con:
+•	S -1: Đăng kí tài khoản mới cho người dùng
+1: Người dùng nhập thông tin tên đăng nhập và mật khẩu cần tạo
+2: Hệ thống lưu lại thông tin 
+3: Đăng kí tài khoản thành công
+•	S -2: Đăng nhập cho người dùng:
+1: Nhập tài khoản và mật khẩu
+2: Hệ thống kiểm tra
+3: Đăng nhập thành công
+•	S -3: Đăng xuất:
+1: Người dùng chọn vào “Đăng xuất”
+2: Hệ thống đăng xuất khỏi tài khoản người dùng
+
