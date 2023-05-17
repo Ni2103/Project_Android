@@ -170,9 +170,15 @@ S -3: Tạo biểu đồ thống kê chi tiêu hằng ngày
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/0134f1f7-e346-4b80-883a-65df0a809545)
 -	Người dùng mở ứng dụng màn hình đăng nhập sẽ mở lên trước. Nếu người dùng chưa có tài khoản thì bấm vào nút Register để tạo một tài khoản mới, màn hình sẽ chuyển sang giao diện đăng kí tài khoản
 -	Sau khi gõ đầy đủ các thông tin, người dùng bấm vào nút Register để đăng kí
-
+-	Sau khi tạo thành công màn hình sẽ hiển thị thống báo đã tạo thành công và chuyển sang giao diện màn hình đăng nhập
 # Màn hình giao diện đăng nhập
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/62f81635-b2fe-4030-bc16-1b2f077ef897)
+-	Gõ tên đăng nhập và mật khẩu tương ứng
+-	Sau khi gõ đầy đủ các thông tin, người dùng bấm vào nút Login
+-	Hệ thống sẽ tiến hành kiểm tra thông tin tài khoản đã được tạo trong cơ sở dữ liệu
++	Đăng nhập thành công: nếu thông tin chính xác, người dùng sẽ có thể truy cập được vào màn hình chính của ứng dụng
++	Đăng nhập thất bại: thông tin đăng nhập không chính xác, yêu cầu nhập lại và hiện thông báo “login failed”
+
 
 # Màn hình trang chủ 
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/a9be4000-0353-4a91-a240-d08cc97475df)
