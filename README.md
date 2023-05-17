@@ -178,45 +178,12 @@ S -3: Tạo biểu đồ thống kê chi tiêu hằng ngày
 -	Mô hình dòng dữ liệu mức 2 cho ô xử lý 5.0 “Thống kê”
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/a14b4e7f-83e0-43ea-a4fe-de0da94130fc)
 # XÂY DỰNG CƠ SỞ DỮ LIỆU
-Danh sách các thực thể
-	User (Tài khoản)
-	Danh sách các thuộc tính
-STT	Tên thuộc tính	Mô tả	Kiểu dữ liệu
-1	ID	Số định danh	int (Tự động tăng)
-2	Username	Tên người dùng	Text
-3	Password	Email	Text
-Bảng 3. 8 Danh sách các thuộc tính User
-	Danh mục
-	Danh sách các thuộc tính
-STT	Tên thuộc tính	Mô tả	Kiểu dữ liệu
-1	ID	Số định danh	int (Tự động tăng)
-2	Category	Tên danh mục	Text
-3	Image	Hình ảnh	Text
-Bảng 3. 9 Danh sách các thuộc tính Category
-	Ví tiền
-	Danh sách các thuộc tính
-STT	Tên thuộc tính	Mô tả	Kiểu dữ liệu
-1	ID	Số định danh	int (Tự động tăng)
-2	Name	Tên ví tiền	Text
-3	Image	Hình ảnh	Text
-4	Money	Số tiền	Float
-Bảng 3. 10 Danh sách các thuộc tính Ví tiền
-	Loại tiền tệ
-	Danh sách các thuộc tính
-STT	Tên thuộc tính	Mô tả	Kiểu dữ liệu
-1	ID	Số định danh	int (Tự động tăng)
-2	Name	Tên loại tiền tệ	Text
-Bảng 3. 11 Danh sách các thuộc tính Loại tiền tệ
-	Chi tiêu
-	Danh sách các thuộc tính
-STT	Tên thuộc tính	Mô tả	Kiểu dữ liệu
-1	Category	Tên danh mục	int (Tự động tăng)
-2	Wallet	Tên loại tiền tệ	Text
-3	Money	Số tiền	Float
-4	Date	Ngày	Date
-5	Note	Ghi chú	Text
-6	Type	Loại ví tiền	Text
-Bảng 3. 12 Danh sách các thuộc tính Chi tiêu
+<img width="429" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/7e442edc-97c8-442f-bca5-8404ca424ff3">
+<img width="425" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/e5bc6b6c-a601-420a-b6d3-e5c91d1d4f5c">
+<img width="446" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/16d73409-015a-483c-a4a6-ce88a53bd35c">
+<img width="436" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/94c58a9d-4c04-4b81-88b3-d0ea988ef23a">
+<img width="427" alt="image" src="https://github.com/Ni2103/Project_Android/assets/89075130/fdecfdbd-2827-4e2a-8ad1-5e9ef4c0ede2">
+
 
 # SƠ ĐỒ TỔ CHỨC GIAO DIỆN
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/5d6804fb-7026-44ca-9242-af2f7ac06bde)
