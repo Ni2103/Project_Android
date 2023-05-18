@@ -1,4 +1,5 @@
 # Project Android
+####	Source code: https://drive.google.com/file/d/135v6QuR1F72Y9I9FuQUqfPoszSArlR6K/view?usp=sharing
 # ỨNG DỤNG SQLITE XÂY DỰNG CHƯƠNG TRÌNH ANROID QUẢN LÝ HOẠT ĐỘNG THU CHI CÁ NHÂN
 -	Ứng dụng cài đặt trên điện thoại chạy hệ điều hành Android
 -	Hệ thống phải đáp ứng và lưu trữ đầy đủ, bảo mật thông tin của người dùng
