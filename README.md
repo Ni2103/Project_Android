@@ -265,8 +265,8 @@ S -3: Nếu chức năng là “Đăng xuất” hệ thống thực hiện lu�
 -	Nếu người dùng muốn xóa hay chỉnh sửa danh mục thì có thể nhấn vào danh mục đó. Một sự lựa chọn sẽ hiện ra cho phép xóa hoặc cập nhật danh mục đó.
 -	Nếu người dùng bấm vào nút xóa thì danh mục đó sẽ bị xóa khỏi danh sách, nếu nhấn vào nút chỉnh sửa thì màn hình sẽ hiện lên giao diện chỉnh sửa thông tin danh mục cho người dùng.
 -	Sau cùng người dùng bấm nút Hoàn thành để lưu lại thông tin đã cập nhật
-	![image](https://github.com/Ni2103/Project_Android/assets/89075130/5662958e-620b-4755-90a9-725997e882d1)
-
+	![image](https://github.com/Ni2103/Project_Android/assets/89075130/6459e44b-f82e-470a-a58d-b1dc5e7aecef)
+	
 ##	 Màn hình thông tin liên hệ
 ![image](https://github.com/Ni2103/Project_Android/assets/89075130/c43e4ffb-8961-4094-9cf8-e058b45f0d45)
 -	Màn hình này sẽ hiện thi thông tin nhóm thực hiện đề tài 
